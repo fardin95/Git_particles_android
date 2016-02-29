@@ -18,5 +18,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void addMehtod1() {
+
+
+    }
+
+    public void addMehtoded2() {
+
+
+    }
+
 
 }
