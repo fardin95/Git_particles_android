@@ -6,4 +6,9 @@ package git.saidul.com.gitparticlesandroid;
 public class FirstClass {
 
 
+    public void firstCallMethoda() {
+
+
+    }
+
 }
